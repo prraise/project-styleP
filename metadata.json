@@ -1,0 +1,6 @@
+{
+  "name": "StyleP",
+  "description": "Premium luxury fashion and clothing brand website showcasing high-end collections, design expertise, portfolio lookbooks, and customized styling guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
