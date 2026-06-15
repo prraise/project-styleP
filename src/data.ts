@@ -200,8 +200,7 @@ export const SERVICES: Service[] = [
     title: "Brand Merchandise",
     description: "Custom premium corporate or artist merchandise that elevates advocacy and visual appeal.",
     longDesc: "Replace generic promotional t-shirts with pieces people love to wear. We craft high-quality sweatshirts, organic beanies, and luxury heavyweight tees branded to your brand aesthetic.",
-    icon: "Shirt"
-  },
+    icon: " AlarmClock"
   {
     id: "serv-6",
     title: "Fashion Styling Services",

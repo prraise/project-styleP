@@ -40,7 +40,7 @@ export default function Hero({ onScrollToSection, onOpenAiStylist }: HeroProps) 
 
         {/* Headline */}
         <h1 className="font-display text-4xl sm:text-6xl md:text-7xl font-bold text-white tracking-tight leading-tight uppercase">
-          Elevate Your Style <br className="hidden sm:inline" />
+          Enhance Your Style <br className="hidden sm:inline" />
           <span className="text-[#D4AF37] font-display italic font-medium lowercase">with</span> Style<span className="text-[#D4AF37]">P</span>
         </h1>
 
